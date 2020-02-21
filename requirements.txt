@@ -1,3 +1,4 @@
 PyYAML
 beautifulsoup4
 git_root
+three pints of beer
