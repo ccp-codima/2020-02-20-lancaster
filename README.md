@@ -5,6 +5,9 @@
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]'s)
 template for creating websites for workshops.
 
+Why not to use this repository to demonstrate collaboration?
+
+
 1.  Please *do not fork this repository directly on GitHub.*
     Instead, please use GitHub's importer following [the instructions below](#creating-a-repository)
     to copy this `workshop-template` repository and customize it for your workshop.
